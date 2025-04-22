@@ -69,7 +69,9 @@ Available Listings by Room and Source
 -	As the number of bedrooms increases, the available listings drop significantly, with only 58 available for four bedrooms and 26 for five bedrooms. 
 - There are two listing source available in Vancouve, City scrape is the leading listing source taking 66.4% while the Previous scrape took 33.6% of the overall source.
 
-**_You can interact with the report_** [here]()
+**Interactive Dashboard**
+
+_You can interact with the report_ [here](https://public.tableau.com/views/VancouverAirBnB2025/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Insights for Stakeholders and Investors:
 
